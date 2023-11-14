@@ -98,7 +98,10 @@ else:
 ![Screenshot (120)](https://github.com/maha712/Search-Algorithm/assets/121156360/2d05c18e-ddcb-4068-ac19-508dc09e9ff9)
 
 ![Screenshot (121)](https://github.com/maha712/Search-Algorithm/assets/121156360/733557b7-1008-43af-8d75-2a5439f6db05)
-![Uploading Screenshot (122).png…]()
+
+![Screenshot (28)](https://github.com/maha712/Search-Algorithm/assets/121156360/509af46a-935c-40a4-b216-e1f901611c60)
+
+
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
